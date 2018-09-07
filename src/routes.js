@@ -1,6 +1,6 @@
 import React from "react"
 import { Switch, Route } from "react-router-dom"
-import HomePage from "./Components/HomePage"
+import HomePage from "./Views/HomePage"
 
 export default (
   <Switch>
